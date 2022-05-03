@@ -1,4 +1,4 @@
-const APIKEY = "4caf55d3db3350bd7fc88206f6a6d434";
+const APIKEY = "own-api-key";
 
 const requests = {
     fetchTrending: `https://api.themoviedb.org/3/trending/all/week?api_key=${APIKEY}&language=en-US`,
